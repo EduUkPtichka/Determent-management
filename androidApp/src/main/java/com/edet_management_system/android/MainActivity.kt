@@ -1,4 +1,4 @@
-package com.edet_management_system.shared.android
+package com.edet_management_system.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

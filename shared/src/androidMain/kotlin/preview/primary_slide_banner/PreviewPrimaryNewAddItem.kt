@@ -3,8 +3,8 @@ package preview.primary_slide_banner
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.tooling.preview.Preview
-import determent.edet_management_system.shared.relational_mapping.home.primary_slide_banner.ui_cmp.background_content.PrimaryBackgroundContentPNG
-import determent.edet_management_system.shared.relational_mapping.home.primary_slide_banner.ui_cmp.primary_content.PrimaryNewAddItem
+import determent.edet_management_system.shared.home.primary_slide_banner.ui_cmp.background_content.PrimaryBackgroundContentPNG
+import determent.edet_management_system.shared.home.primary_slide_banner.ui_cmp.primary_content.PrimaryNewAddItem
 import dev.chrisbanes.haze.HazeState
 import dev.icerock.moko.resources.compose.painterResource
 import org.example.library.MR

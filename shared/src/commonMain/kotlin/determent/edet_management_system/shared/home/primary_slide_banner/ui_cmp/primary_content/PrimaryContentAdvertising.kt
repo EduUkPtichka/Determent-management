@@ -1,4 +1,4 @@
-package determent.edet_management_system.shared.relational_mapping.home.primary_slide_banner.ui_cmp.primary_content
+package determent.edet_management_system.shared.home.primary_slide_banner.ui_cmp.primary_content
 
 import androidx.compose.runtime.Composable
 

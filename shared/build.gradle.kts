@@ -95,6 +95,8 @@ dependencies {
 
     /* ----------------- Android ----------------- */
 
+    "androidMainImplementation"(libs.androidx.activity.compose)
+
     // CameraX
     "androidMainImplementation"(libs.androidx.camera.core)
     "androidMainImplementation"(libs.androidx.camera.camera2)
