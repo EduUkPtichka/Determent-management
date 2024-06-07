@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EDeterment-management-system"
+rootProject.name = "EDeterment-management"
 include(":androidApp")
 include(":shared")

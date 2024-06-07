@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.determent.edeterment_management_system.android"
+    namespace = "com.determent.determent_management.android"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     defaultConfig {
-        applicationId = "com.determent.edeterment_management_system.android"
+        applicationId = "com.determent.determent_management.android"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = 34
         versionCode = 1
